@@ -1,9 +1,3 @@
-'''
-Κούρτη Πελαγία, 17056, pelakour@math.auth.gr,
-Σπάρταλης Παναγιώτης, 16918, sparpana@math.auth.gr
-Χριστοδουλίδου Παναγιώτα, 17080, cpanagiota@math.auth.gr
-'''
-
 class Cell():
     def __init__(self,value=0, owner=0):
         self.value = value # Ακέραιος που δείχνει την τρέχουσα τιμή του κελιού
