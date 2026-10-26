@@ -45,7 +45,7 @@ class Proximity2(): # Η κλάση του παίκτη
 
     # Μέθοδος που εκτυπώνει το όνομα της ομάδας
     def getPlayerName(self):
-        print("Kourti")
+        print("Kourti_Spartalis_Christodoulidou")
 
     # Μέθοδος που ελέγχει αν ένα κελί έχει owner και αν δεν έχει, θέτει ως owner του κελιού τον παίκτη
     # lista: το ταμπλό στην τρέχουσα κατάσταση
